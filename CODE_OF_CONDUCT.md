@@ -1,4 +1,4 @@
-SPRINT 2 – ACORDO DE CONVIVÊNCIA
+<h2>SPRINT 2 – ACORDO DE CONVIVÊNCIA</h2>
 
 1.	Compromisso com o projeto (Reuniões e Tasks);
 2.	Reuniões TERÇA (Discord)/ QUINTA (Presencial)/DAILYS (WhatsApp);
