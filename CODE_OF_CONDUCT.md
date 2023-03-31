@@ -1,16 +1,16 @@
 <h2>SPRINT 2 – ACORDO DE CONVIVÊNCIA</h2>
 
-1.	Compromisso com o projeto (Reuniões e Tasks);
-2.	Reuniões TERÇA (Discord)/ QUINTA (Presencial)/DAILYS (WhatsApp);
-3.	Quem não participa da reunião não opina nos acordos feitos;
-4.	Cumprir com prazos estabelecidos de entregáveis;
-5.	Comunicar antecipadamente NÃO ENTREGAS e DIFICULDADES;
-6.	Sempre comunicar antes de qualquer alteração no projeto;
+<b>1.</b>	Compromisso com o projeto (Reuniões e Tasks);
+<b>2.</b>	Reuniões TERÇA (Discord)/ QUINTA (Presencial)/DAILYS (WhatsApp);
+<b>3.</b>	Quem não participa da reunião não opina nos acordos feitos;
+<b>4.</b>	Cumprir com prazos estabelecidos de entregáveis;
+<b>5.</b>	Comunicar antecipadamente NÃO ENTREGAS e DIFICULDADES;
+<b>6.</b>	Sempre comunicar antes de qualquer alteração no projeto;
 
 Sendo assim, todos estão de acordo a seguir os combinados!
-Carlos Beneck,
-Danielle Romano,
-Nicolas Farias,
-Samuel Lucena,
-Thaisa Nobrega,
+Carlos Beneck,<br>
+Danielle Romano,<br>
+Nicolas Farias,<br>
+Samuel Lucena,<br>
+Thaisa Nobrega,<br>
 Vanessa Mireli
